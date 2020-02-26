@@ -4,10 +4,12 @@ _Workshop materials for a development workshop on interactive workflows on nesh.
 
 **Lead:** _Katharina Höflich_ & _Willi Rath_
 
+
 ## Date and Place
 
 - March 5th 2020, 09:00 - 12:00
 - GEOMAR, Westshore, Kleiner Praktikumsraum
+
 
 ## Agenda [3 hours]
 
@@ -17,6 +19,7 @@ _Workshop materials for a development workshop on interactive workflows on nesh.
   -	improving documentation
   -	adapting existing workflows
 -	Discussion / outlook [60 minutes]
+
 
 ## Contents
 
@@ -50,6 +53,7 @@ _(Meant to define future road.)_
 -	Should we repeat this? Should we have a more user-focused workshop?
 -	…
 
+
 ## Preparations
 
 ### Attendees
@@ -57,7 +61,7 @@ _(Meant to define future road.)_
 -	Bring a Laptop
   -	with Linux, MacOS, or Windows,
   -	that can VPN somewhere with NESH accesss,
-  -	that has an SSH client,
+  -	that has an SSH client (Git Bash works fine for Windows.),
   -	that has a Web Browser (Preferrably Chrome / Chromium, because proxy via SSH tunnel is easy there.)
 - Have an Account on Nesh.
 - Have an Eduroam Account. (But we might be able to fall back to a dedicated WiFi if necessary.)
