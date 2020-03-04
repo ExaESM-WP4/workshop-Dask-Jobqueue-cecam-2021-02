@@ -2,3 +2,5 @@
 dask-worker-space
 dask-worker.o*
 dask-worker.e*
+jupyterlab.out
+1_intro_and_established_interactive_workflows/random_data.zarr/
