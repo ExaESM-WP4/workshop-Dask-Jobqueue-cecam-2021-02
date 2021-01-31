@@ -12,7 +12,7 @@ dependencies:
   - holoviews
   - hvplot
   - ipykernel
-  - jupyter-lab
+  - jupyterlab
   - matplotlib
   - netCDF4
   - numba
