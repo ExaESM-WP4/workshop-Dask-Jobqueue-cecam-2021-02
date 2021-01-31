@@ -1,0 +1,24 @@
+name: dask_jobqueue_workshop
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - bokeh
+  - dask
+  - dask-jobqueue
+  - dask-labextension
+  - distributed
+  - git
+  - holoviews
+  - hvplot
+  - ipykernel
+  - jupyter-lab
+  - matplotlib
+  - netCDF4
+  - numba
+  - numpy
+  - pandas
+  - pip
+  - seaborn
+  - xarray
+  - zarr
