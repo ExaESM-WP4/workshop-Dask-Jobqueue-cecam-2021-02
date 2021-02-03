@@ -15,12 +15,12 @@ See: https://www.cecam.org/workshop-details/1022
   - With Dask Array & `dask.distributed.LocalCluster` _[10 min]_
   - With Dask Array & `dask_jobqueue.SLURMCluster` _[10 min]_
 
-- _**Questions?**_ _[10 min]_
+- _**=== Questions? ===**_ _[10 min]_
 
 - Distributed IO _[10 min]_
 
 - Adaptive Scaling of Dask (Jobqueue) Clusters _[10 min]_
 
-- Resilience Against Terminated Workers _[10 min]_
+- _(optional)_ Resilience Against Terminated Workers _[10 min]_
 
-- _**Questions?**_ _[10 min]_
+- _**=== Questions? ===**_ _[10 min]_
